@@ -1,2 +1,9 @@
-# Discrete-BJT-Audio-Amp
-Four-stage discrete BJT audio amplifier (2× CE gain, emitter follower, Class AB push-pull) driving 2 W into 8 Ω. Covers hand analysis, LTspice simulation, breadboard testing, and a 2-layer KiCad PCB.
+# 4-Stage Common-Emitter Amplifier: Design, Simulation & PCB (LTspice + KiCad)
+
+An end-to-end analog audio amplifier project, taken from first-principles math all the way to a manufacturable board, using LTspice and KiCad.
+
+**What's inside:**
+- Theoretical analysis and hand calculations for each stage
+- LTspice simulations and results
+- Breadboard prototype with real-world measurements
+- Final PCB design in KiCad
